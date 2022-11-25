@@ -2,18 +2,11 @@
 
 using namespace std;
 int CautaPoz(int a[], int n){
-    int i,S1=0,S2=0,mini=;
-  for(i=0;i<n/2;i++)
-  {
-    S1+=a[i];
-    S2+=a[n-i-1];
-    if(abs(S1-S2)<mini)
-    {
-      mini=abs(S1-S2);
-      iMin=i;
+    int st=0,dr=n-1,suma1=0,suma2=0;
+    while(st!=dr){
+
     }
-  }
-  return iMin;
+   return st;
 }
 int main()
 {
