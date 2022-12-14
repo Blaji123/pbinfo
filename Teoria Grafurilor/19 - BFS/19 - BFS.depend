@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670864633 source:c:\users\blajan david\c++\pbinfo\teoria grafurilor\19 - bfs\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+
