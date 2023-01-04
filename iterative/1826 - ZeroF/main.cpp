@@ -18,6 +18,6 @@ int zerof (int n)
 }
 int main()
 {
-
+    cout<<zerof(25);
     return 0;
 }
