@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676737246 source:c:\users\blajan david\c++\pbinfo\teoria grafurilor\dfs - teorie\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<algorithm>
+
