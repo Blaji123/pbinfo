@@ -9,7 +9,6 @@ bool dfs(int src,int dst){
   v[src]=1;
   for(auto i:G[src])
    if(!v[i]){
-    v[i]=1;
     if(dfs(i,dst))
         return true;
    }

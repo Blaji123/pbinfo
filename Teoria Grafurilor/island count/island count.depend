@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676975612 source:c:\users\blajan david\c++\pbinfo\teoria grafurilor\island count\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

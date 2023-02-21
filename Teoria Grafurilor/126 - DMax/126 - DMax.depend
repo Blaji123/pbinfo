@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676915075 source:c:\users\blajan david\c++\pbinfo\teoria grafurilor\126 - dmax\main.cpp
+	<fstream>
+	<queue>
+	<vector>
+

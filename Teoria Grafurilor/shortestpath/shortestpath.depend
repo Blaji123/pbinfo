@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676911975 source:c:\users\blajan david\c++\pbinfo\teoria grafurilor\shortestpath\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
