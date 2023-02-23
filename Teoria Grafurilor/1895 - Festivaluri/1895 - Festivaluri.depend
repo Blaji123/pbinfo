@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677175086 source:c:\users\blajan david\c++\pbinfo\teoria grafurilor\1895 - festivaluri\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+
