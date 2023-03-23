@@ -1,8 +1,6 @@
-#include <fstream>
+#include <iostream>
 
 using namespace std;
-ifstream cin("gengraf.in");
-ofstream cout("gengraf.out");
 int m,a[11][11],x[101],p,n;
 void afisare(){
     int k=1;

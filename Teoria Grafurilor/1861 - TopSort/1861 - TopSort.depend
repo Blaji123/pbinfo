@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677521938 source:c:\users\blajan david\c++\pbinfo\teoria grafurilor\1861 - topsort\main.cpp
+	<fstream>
+	<vector>
+
